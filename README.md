@@ -4,7 +4,7 @@ Projeto desenvolvido durante a Next Level Week - [Rocketseat](https://rocketseat
 
 ### Pré-requisitos:
 
-Para rodar o servidor(server), aplicação Web(web) e o aplicativo Mobile (mobile), você precisa do NodeJS e do Yarn instalado em sua máquina.
+Para rodar o servidor([server](https://github.com/lucasjc98/proffy-server-nlw2)), aplicação Web(web) e o aplicativo Mobile ([mobile](https://github.com/lucasjc98/proffy-mobile-nlw2)), você precisa do NodeJS e do Yarn instalado em sua máquina.
 
 ```
 yarn install
